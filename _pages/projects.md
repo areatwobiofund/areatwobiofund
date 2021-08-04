@@ -1,10 +1,10 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: Management Team
+permalink: /Management Team/
+description: Meet our management team.
 nav: true
-display_categories: [work, fun]
+display_categories: [Management Partners, Advisory Board]
 horizontal: false
 ---
 <div class="projects">
