@@ -6,4 +6,4 @@ We are a collective of Cambridge/Boston-based PhD, MD, and MBA trainees motivate
 
 We will leverage our diverse expertise, ranging from engineering development to clinical translation to business implementation, to inform public investing decisions across biotechnology sectors and life sciences.
 
-Interested? Email us at areatwobiofund “at” gmail “dot” com.
+We are actively recruiting partners for the fund at this time. Interested? Email us at areatwobiofund “at” gmail “dot” com.
