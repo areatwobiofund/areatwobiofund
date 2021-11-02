@@ -18,5 +18,4 @@ We are a collective of Cambridge/Boston-based PhD, MD, and MBA trainees motivate
 
 We will leverage our diverse expertise, ranging from engineering development to clinical translation to business implementation, to inform public investing decisions across biotechnology sectors and life sciences.
 
-We are actively recruiting partners for the fund at this time. 
-Interested? Email us at areatwobiofund "at" gmail "dot" com.
+Partners hold monthly virtual meetings (first Monday of each month) to pitch and vote on the buying and selling of stocks. Please find more information (here)[https://docs.google.com/document/d/1vl3m1Z4kPPktunD6PFlxF4QmKfIdGMTGq26b82JOrp0/edit] including an overview slide deck of the partnership, an example pitch deck, our general partnership agreement, and the application form. If interested in joining Area Two Bio Fund, please fill out the form promptly and we will accept new partners on a rolling basis.
